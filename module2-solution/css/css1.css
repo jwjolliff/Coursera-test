@@ -1,0 +1,53 @@
+.acenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
+.containertitle {
+	color: red !important;
+}
+
+.containertitle {
+
+}
+
+.containertitlebox {
+text-align: right;
+}
+
+.titlebar {
+width: 100%;
+display: block;
+height: 30px;
+}
+
+.titlebarbox {
+width: 180px;
+text-align: center;
+padding: 4px 0px;
+font-weight: bold;
+border: 2px solid black;
+float: right;
+}
+.titleboxchicken {
+background-color: pink;
+color: black;
+}
+
+.titlebarbeef {
+background-color: #CC0000;
+color: white;
+}
+.titlebarsushi {
+background-color: #FFB551;
+color: black;
+}
+
+.textcontainer {
+display: block;
+position: relative;
+padding: 8px;
+font-size: 13px;
+}
